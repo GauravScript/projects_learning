@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [zomatosuite]">
+  <test thread-count="5" verbose="5" name="zomatotest(failed)">
+    <classes>
+      <class name="TestManager.DemoTests">
+        <methods>
+          <include name="getCusisines"/>
+          <include name="init"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestManager.DemoTests -->
+    </classes>
+  </test> <!-- zomatotest(failed) -->
+</suite> <!-- Failed suite [zomatosuite] -->

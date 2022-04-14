@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="zomatosuite" verbose="5" >
+  <test name="zomatotest" >
+    <classes>
+       <class name="TestManager.DemoTests" />
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Django Profile Page</title>
+    <link rel="stylesheet" href="{% static "css/mystyle.css" %}"/>
+  </head>
+  <body>
+    <h1>This is my profile picture</h1>
+    <img src="{% static "images/ID_PIC_cir.png" %}" alt="please select profile pic" height="100px" width="100px">
+    <br>
+    {{ insert_me }}
+
+  </body>
+</html>

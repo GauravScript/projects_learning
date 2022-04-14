@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="zomatosuite" duration-ms="7309" started-at="2020-07-07T18:48:09 IST" finished-at="2020-07-07T18:48:17 IST">
+    <groups>
+    </groups>
+    <test name="zomatotest" duration-ms="7309" started-at="2020-07-07T18:48:09 IST" finished-at="2020-07-07T18:48:17 IST">
+      <class name="TestManager.DemoTests">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestManager.DemoTests@7494e528]" name="init" is-config="true" duration-ms="404" started-at="2020-07-07T18:48:09 IST" finished-at="2020-07-07T18:48:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestManager.DemoTests@7494e528]" name="setup" is-config="true" duration-ms="149" started-at="2020-07-07T18:48:09 IST" finished-at="2020-07-07T18:48:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getLocation()[pri:1, instance:TestManager.DemoTests@7494e528]" name="getLocation" duration-ms="2109" started-at="2020-07-07T18:48:09 IST" finished-at="2020-07-07T18:48:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLocation -->
+        <test-method status="PASS" signature="getCusisines()[pri:2, instance:TestManager.DemoTests@7494e528]" name="getCusisines" duration-ms="2733" started-at="2020-07-07T18:48:12 IST" finished-at="2020-07-07T18:48:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCusisines -->
+        <test-method status="PASS" signature="getEstablishment()[pri:3, instance:TestManager.DemoTests@7494e528]" name="getEstablishment" duration-ms="322" started-at="2020-07-07T18:48:14 IST" finished-at="2020-07-07T18:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEstablishment -->
+        <test-method status="PASS" signature="getCategory()[pri:4, instance:TestManager.DemoTests@7494e528]" name="getCategory" duration-ms="320" started-at="2020-07-07T18:48:15 IST" finished-at="2020-07-07T18:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCategory -->
+        <test-method status="PASS" signature="recommendRestaurant()[pri:5, instance:TestManager.DemoTests@7494e528]" name="recommendRestaurant" duration-ms="1632" started-at="2020-07-07T18:48:15 IST" finished-at="2020-07-07T18:48:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recommendRestaurant -->
+      </class> <!-- TestManager.DemoTests -->
+    </test> <!-- zomatotest -->
+  </suite> <!-- zomatosuite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coding/python_practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker/docker-laravel-added-nginx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker/docker-networks-starting-setup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker/docker-utility-container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker/multi-container-starting-setup" vcs="Git" />
+  </component>
+</project>

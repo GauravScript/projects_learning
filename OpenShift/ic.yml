@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ImageStream
+metadata:
+  labels:
+    build: mywebsite
+  name: mywebsite
+spec:
+  lookupPolicy:
+    local: false
